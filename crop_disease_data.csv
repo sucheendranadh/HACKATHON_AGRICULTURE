@@ -1,0 +1,55 @@
+Disease,Symptoms,Treatment,CropType,Severity,DateObserved
+Powdery Mildew,"White powdery coating on leaves, reduced photosynthesis, leaf curling","Apply sulfur dust, neem oil spray, ensure good air circulation, remove affected leaves",Wheat,High,2024-03-15
+Early Blight,"Brown spots with concentric rings on lower leaves, yellowing, defoliation","Remove infected leaves, apply copper fungicide, improve drainage, increase spacing",Potato,High,2024-02-20
+Gray Leaf Spot,"Rectangular gray lesions with brown borders, premature leaf drop","Fungicide spray, crop rotation, remove infected residue, resistant varieties",Corn,Medium,2024-01-05
+Septoria Leaf Blotch,"Small circular spots with dark borders and gray centers, yellowing","Apply fungicide, remove infected leaves, improve air flow, crop rotation",Wheat,Medium,2024-03-01
+Powdery Mildew on Grapes,"White powder on leaves and fruit, fruit cracking, reduced yield","Sulfur spray, remove infected parts, thin canopy, resistant rootstocks",Grapes,High,2024-02-15
+Downy Mildew,"Yellow patches on upper leaf surface, white mold on undersides, defoliation","Bordeaux mixture spray, improve drainage, remove infected leaves, resistant varieties",Grapevine,High,2024-03-10
+Root Rot,"Wilting despite adequate water, blackened roots, stunted growth, plant death","Improve drainage, avoid overwatering, use fungicide-treated seeds, crop rotation",Soybean,High,2024-01-25
+Blight on Tomatoes,"Dark lesions on stems and leaves, canker formation, plant collapse","Remove infected plants, copper fungicide, improve air circulation, stake properly",Tomato,High,2024-02-28
+Leaf Rust,"Rusty-orange pustules on leaf undersides, yellowing of upper surface, defoliation","Apply rust-specific fungicide, remove infected leaves, resistant varieties, crop rotation",Wheat,Medium,2024-02-25
+Anthracnose,"Dark sunken lesions on fruit and leaves, pink spore masses, fruit rot","Remove infected fruit, fungicide spray, improve drainage, prune for air flow",Bean,High,2024-03-18
+Clubroot,"Enlarged clubbed roots, yellowing, wilting, stunted growth, poor yield","Lime application to raise pH, crop rotation, remove infected plants, resistant varieties",Cabbage,High,2024-01-20
+Damping Off,"Seedlings collapse at soil line, stem rot, pre-emergence death","Sterilize soil, improve drainage, use fungicide-treated seeds, reduce humidity",Tomato,High,2024-02-10
+Bacterial Spot,"Angular lesions with yellow halos, fruit spotting, defoliation","Copper fungicide, remove infected fruit, improve drainage, resistant varieties",Pepper,Medium,2024-03-08
+Fusarium Wilt,"Yellowing on one side of plant, wilting, browning of vascular tissue, plant death","Remove infected plants, crop rotation, soil solarization, resistant varieties",Melon,High,2024-01-10
+Scab,"Dark raised lesions on fruit and leaves, corky appearance, fruit deformation","Fungicide spray, remove fallen leaves, improve air circulation, resistant varieties",Apple,Medium,2024-02-08
+Mosaics,"Mottled leaves, stunted growth, distorted fruit, yellowing patterns","Remove infected plants, control aphids, use resistant varieties, clean tools",Cucumber,Medium,2024-03-12
+Canker,"Sunken lesions on branches and trunks, bark cracking, branch dieback, gum ooze","Prune infected branches, disinfect tools, paint wounds, resistant rootstocks",Stone Fruits,High,2024-01-30
+White Mold,"White fluffy mold on stems and pods, watery lesions, plant collapse","Remove infected plants, improve air flow, reduce humidity, crop rotation",Peanut,High,2024-02-14
+Leaf Spot,"Brown circular lesions with concentric rings, yellowing, premature defoliation","Fungicide application, remove infected leaves, improve spacing, copper spray",Lettuce,Medium,2024-03-05
+Scale Insects,"Bumpy crusty appearance on stems and leaves, sticky residue, yellowing, stunted growth","Horticultural oil spray, prune infected branches, beneficial insects, neem oil",Citrus,Medium,2024-01-15
+Whiteflies,"Yellowing leaves, sticky residue, small white insects on leaf undersides, plant decline","Insecticidal soap, neem oil, yellow sticky traps, beneficial insects",Tomato,Medium,2024-02-22
+Aphids,"Yellowing and curling of new leaves, sticky residue, visible insects, reduced growth","Insecticidal soap, neem oil, strong water spray, beneficial insects, resistant varieties",Lettuce,Medium,2024-03-20
+Spider Mites,"Fine webbing, yellowing, stippled leaves, reduced growth, severe infestation","Miticide spray, neem oil, increase humidity, water spray, beneficial predators",Bean,Medium,2024-01-28
+Beetles,"Skeletonized leaves, shot holes, visible insects, severe defoliation","Handpicking, neem oil, row covers, beneficial insects, resistant varieties",Brassicas,Medium,2024-02-16
+Corn Earworm,"Damage to ear tips, kernels destroyed, visible worms, reduced yield","Bt spray, insecticide, beneficial insects, resistant hybrids, crop rotation",Corn,High,2024-03-02
+Tomato Hornworm,"Large irregular holes in leaves, dark droppings, visible large caterpillars","Handpicking, Bt spray, beneficial parasitic wasps, resistant varieties",Tomato,High,2024-02-12
+Codling Moth,"Wormy fruit, entry holes with frass, internal damage, unmarketable fruit","Pheromone traps, Bt spray, codling moth granulosis virus, resistant varieties",Apple,High,2024-01-18
+Bacterial Wilt,"Sudden wilting of leaves, browning of vascular tissue, oozing sap, plant death","Remove infected plants, control insect vectors, resistant varieties, crop rotation",Cucumber,High,2024-03-07
+Crown Rot,"Wilting at margins, plant collapse, rot at crown, discolored vascular tissue","Improve drainage, avoid wounding, remove infected plants, resistant varieties",Strawberry,High,2024-02-20
+Sunflower Rust,"Rusty pustules on leaf undersides, yellowing, defoliation, severe damage","Rust-specific fungicide, resistant varieties, crop rotation, remove infected leaves",Sunflower,Medium,2024-03-15
+Late Blight,"Water-soaked lesions on leaves and stems, white mold on leaf undersides, tuber rot","Copper fungicide, remove infected plants, improve drainage, resistant varieties",Potato,High,2024-02-25
+Alternaria,"Brown spots with concentric rings on leaves and fruit, defoliation, fruit rot","Fungicide spray, remove infected plant parts, improve air circulation, resistant varieties",Tomato,Medium,2024-03-10
+Bacterial Canker,"Elongated lesions on stems, canker formation, branch dieback, oozing sap","Prune infected branches, sterilize tools, copper spray, resistant varieties",Stone Fruits,High,2024-01-22
+Leaf Scald,"Dark lesions along leaf margins, yellowing, defoliation, canker formation","Copper fungicide, remove infected leaves, improve drainage, resistant varieties",Peach,Medium,2024-02-18
+Phytophthora Rot,"Water-soaked lesions, soft rot, foul smell, plant collapse, root rot","Improve drainage, avoid overwatering, remove infected plants, fungicide drench",Avocado,High,2024-03-06
+Bacterial Leaf Scorch,"Marginal yellowing and browning, leaf necrosis, scorched appearance, dieback","Remove infected branches, sterilize tools, improve drainage, no cure available",Grape,High,2024-01-16
+Sooty Blotch,"Dark sooty blotches on fruit skin, surface discoloration, cosmetic damage","Fungicide spray, improve air circulation, thin canopy, resistant varieties",Apple,Low,2024-02-09
+Coffee Leaf Rust,"Orange pustules on leaf undersides, yellowing, defoliation, crop loss","Copper fungicide, shade-grown cultivation, remove infected leaves, resistant varieties",Coffee,High,2024-03-14
+Cacao Frosty Pod,"Whitish moldy coating on pods, pod rot, seed loss, severe damage","Fungicide spray, pruning, improve air flow, resistant varieties, shade management",Cacao,High,2024-02-11
+Sugarcane Smut,"Black sooty spores in whip-like structures, plant stunting, reduced yield","Remove infected plants, use disease-free seed cane, resistant varieties, crop rotation",Sugarcane,High,2024-03-13
+Citrus Canker,"Erumpent lesions with yellow halos on leaves and fruit, defoliation, fruit drop","Copper fungicide, remove infected branches, quarantine protocols, resistant rootstocks",Citrus,High,2024-01-24
+Bacterial Spot on Citrus,"Angular brown spots with yellow halos, fruit spotting, defoliation, cosmetic damage","Copper fungicide, remove infected fruit, improve air circulation, resistant varieties",Citrus,Medium,2024-02-27
+Pierce's Disease,"Wilting, leaf scorch, branch dieback, plant death, no cure available","Remove infected plants, control insect vectors, resistant rootstocks, no treatment",Grapevine,High,2024-03-01
+Tristeza Virus,"Vein flecking, stem pitting, stunted growth, tree decline, death of susceptible rootstocks","Remove infected trees, use virus-free budwood, resistant rootstocks, no cure",Citrus,High,2024-02-06
+Black Sigatoka,"Black elongated lesions on leaves, yellowing, defoliation, severe yield loss","Fungicide spray, remove infected leaves, improve air circulation, resistant varieties",Banana,High,2024-03-11
+Panama Disease,"Yellowing of lower leaves, wilting, browning of vascular tissue, plant death","Remove infected plants, quarantine protocols, soil solarization, resistant varieties",Banana,High,2024-01-27
+Maize Lethal Necrosis,"Severe leaf necrosis, plant collapse, stunted growth, complete crop loss","Remove infected plants, control vectors, resistant varieties, crop rotation",Corn,High,2024-02-13
+Cassava Brown Streak,"Necrosis of vascular tissue, stunted growth, crack in stems, tuber rot","Remove infected plants, use virus-free planting material, resistant varieties",Cassava,High,2024-03-09
+Wheat Karnal Bunt,"Premature ripening, grain blackening, smut balls, reduced yield, poor grain quality","Use disease-free seed, resistant varieties, crop rotation, proper seed treatment",Wheat,Medium,2024-01-19
+Barley Net Blotch,"Net-like lesions on leaves, necrotic streaks, defoliation, reduced yield","Fungicide spray, use resistant varieties, crop rotation, remove infected residue",Barley,Medium,2024-02-24
+Rice Blast,"Gray lesions on leaves and panicles, spore production, plant collapse, severe yield loss","Use resistant varieties, proper nutrition, avoid excess nitrogen, fungicide spray",Rice,High,2024-03-08
+Bacterial Blight of Rice,"Water-soaked lesions on leaves, oozing yellow exudate, yellowing, defoliation","Use resistant varieties, remove infected plants, improve drainage, copper spray",Rice,High,2024-01-23
+Ergot on Rye,"Purple-black sclerotia in grain, grain contamination, toxin production, unmarketable grain","Use ergot-free seed, remove infected florets, crop rotation, fungicide spray",Rye,High,2024-02-17
+Covered Smut of Barley,"Spore masses replace grain, black powder inside husks, seed transmission","Use treated seed, resistant varieties, crop rotation, proper seed sanitation",Barley,High,2024-03-03
